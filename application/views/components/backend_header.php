@@ -9,9 +9,9 @@
 
 <nav id="header" class="navbar navbar-expand-md navbar-dark">
     <div id="header-logo" class="navbar-brand">
-        <img src="<?= base_url('assets/img/logo.png') ?>" alt="logo">
+        <img src="<?= base_url('assets/img/sis-logo.png') ?>" alt="SIS logo">
         <h6>Sistema Integral de Salud (SIS)</h6>
-        <small>Online Appointment Scheduler</small>
+        <small>Gestión de Citas Médicas</small>
     </div>
 
     <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#header-menu">
