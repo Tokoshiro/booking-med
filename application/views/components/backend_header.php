@@ -10,7 +10,7 @@
 <nav id="header" class="navbar navbar-expand-md navbar-dark">
     <div id="header-logo" class="navbar-brand">
         <img src="<?= base_url('assets/img/logo.png') ?>" alt="logo">
-        <h6>EASY!APPOINTMENTS</h6>
+        <h6>Sistema Integral de Salud (SIS)</h6>
         <small>Online Appointment Scheduler</small>
     </div>
 

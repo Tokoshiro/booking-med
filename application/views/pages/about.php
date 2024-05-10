@@ -6,11 +6,9 @@
     <div id="about" class="col-lg-8 offset-lg-2">
         
         <div class="text-center my-5">
-            <img src="<?= base_url('assets/img/logo.png') ?>" alt="Easy!Appointments Logo" class="mb-5">
+            <img src="<?= base_url('assets/img/logo.png') ?>" alt="SIS Logo" class="mb-5">
             
-            <h3>
-                Easy!Appointments
-            </h3>
+            
             <h6 class="text-primary">
                 Online Appointment Scheduler
             </h6>
@@ -40,43 +38,6 @@
         <p>
             <?= lang('about_app_support') ?>
         </p>
-
-        <div class="d-lg-flex justify-content-start flex-wrap alight-items-center mb-5">
-            <div class="text-center w-50 mb-3 pe-3">
-                <a class="btn btn-outline-secondary d-block" href="https://easyappointments.org">
-                    <i class="fas fa-external-link-alt me-2"></i>
-                    <?= lang('official_website') ?>
-                </a>    
-            </div>
-
-            <div class="text-center w-50 mb-3 ps-3">
-                <a class="btn btn-outline-secondary d-block" href="https://groups.google.com/forum/#!forum/easy-appointments">
-                    <i class="fas fa-external-link-alt me-2"></i>
-                    <?= lang('support_group') ?>
-                </a>
-            </div>
-
-            <div class="text-center w-50 mb-3 pe-3">
-                <a class="btn btn-outline-secondary d-block" href="https://github.com/alextselegidis/easyappointments/issues">
-                    <i class="fas fa-external-link-alt me-2"></i>
-                    <?= lang('project_issues') ?>
-                </a>
-            </div>
-
-            <div class="text-center w-50 mb-3 ps-3">
-                <a class="btn btn-outline-secondary d-block" href="https://facebook.com/easyappts">
-                    <i class="fas fa-external-link-alt me-2"></i>
-                    Facebook
-                </a>
-            </div>
-
-            <div class="text-center w-50 mb-3 pe-3">
-                <a class="btn btn-outline-secondary d-block" href="https://twitter.com/easyappts">
-                    <i class="fas fa-external-link-alt me-2"></i>
-                    Twitter
-                </a>
-            </div>
-        </div>
 
         <h4 class="fw-light text-black-50 mb-3">
             <?= lang('license') ?>
