@@ -993,3 +993,319 @@ ERROR - 2024-05-09 06:52:27 --> #0 C:\xampp\htdocs\easyappointments\application\
 #2 C:\xampp\htdocs\easyappointments\system\core\CodeIgniter.php(481): Calendar->save_appointment()
 #3 C:\xampp\htdocs\easyappointments\index.php(360): require_once('C:\\xampp\\htdocs...')
 #4 {main}
+ERROR - 2024-05-09 23:14:21 --> Notifications - Could not email confirmation details of appointment (3) : Email was not sent: No ha sido posible enviar el correo usando PHP mail(). Tu servidor podría no estar configurado para enviar emails con este método.<br /><pre>Date: Thu, 9 May 2024 23:14:19 +0200
+From: &quot;info@sis.gob.pe&quot; &lt;info@sis.gob.pe&gt;
+Return-Path: &lt;info@sis.gob.pe&gt;
+Reply-To: &lt;info@sis.gob.pe&gt;
+User-Agent: Easy!Appointments
+X-Sender: info@sis.gob.pe
+X-Mailer: Easy!Appointments
+X-Priority: 3 (Normal)
+Message-ID: &lt;663d3cab4d414@sis.gob.pe&gt;
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary=&quot;B_ATC_663d3cab4d424&quot;
+=?UTF-8?Q?Su=20cita=20ha=20sido=20agendada=20exitosamente?=
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ATC_663d3cab4d424
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_663d3cab4d422&quot;
+
+--B_ALT_663d3cab4d422
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Seguro Integral de Salud
+
+
+
+
+ Su cita ha sido agendada exitosamente
+
+
+ Gracias por utilizar nuestro servicio para agendar su cita. Debajo
+encontrará los detalles de su cita. Haga clic en la cita para realizar
+cambios.
+
+
+ Detalles de la cita
+
+
+
+
+ Servicio
+
+ Consulta General
+
+
+
+ Proveedor
+
+ Doctor prueba prueba
+
+
+
+ Inicio
+
+ 13/05/2024 9:30 am
+
+
+
+ Final
+
+ 13/05/2024 10:00 am
+
+
+
+
+ Zona horaria
+
+ Lima (-5:00)
+
+
+
+
+ Descripción
+
+
+
+
+
+
+
+
+ Detalles del cliente
+
+
+
+
+ Nombre
+
+ asd asd
+
+
+
+ Dirección de E-mail
+
+ asd@asd.asd
+
+
+
+ Número de teléfono
+
+ 999999999
+
+
+
+ Domicilio
+
+
+
+
+
+
+ Enlace a la cita
+
+
+ http://localhost:8080/booking-med/index.php/booking/reschedule/EUATj7C5b9H0
+
+
+
+ Powered by
+
+ Easy!Appointments
+
+ |
+
+ Seguro Integral de Salud
+
+
+--B_ALT_663d3cab4d422
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+=3Chtml lang=3D=22en=22=3E
+=3Chead=3E
+ =3Ctitle=3E
+ Detalles de la cita =7C Easy=21Appointments
+ =3C/title=3E
+=3C/head=3E
+=3Cbody style=3D=22font: 13px arial, helvetica, tahoma=3B=22=3E
+
+=3Cdiv class=3D=22email-container=22 style=3D=22width: 650px=3B border: 1px=
+ solid =23eee=3B margin: 30px auto=3B=22=3E
+ =3Cdiv id=3D=22header=22 style=3D=22background-color: =23429a82=3B height:=
+ 45px=3B padding: 10px 15px=3B=22=3E
+ =3Cstrong id=3D=22logo=22 style=3D=22color: white=3B font-size: 20px=3B ma=
+rgin-top: 10px=3B display: inline-block=22=3E
+ Seguro Integral de Salud =3C/strong=3E
+ =3C/div=3E
+
+ =3Cdiv id=3D=22content=22 style=3D=22padding: 10px 15px=3B min-height: 400=
+px=3B=22=3E
+ =3Ch2=3E
+ Su cita ha sido agendada exitosamente =3C/h2=3E
+
+ =3Cp=3E
+ Gracias por utilizar nuestro servicio para agendar su cita. Debajo encontr=
+ar=C3=A1 los detalles de su cita. Haga clic en la cita para realizar cambio=
+s. =3C/p=3E
+
+ =3Ch2=3E
+ Detalles de la cita =3C/h2=3E
+
+ =3Ctable id=3D=22appointment-details=22=3E
+ =3Ctr=3E
+ =3Ctd class=3D=22label=22 style=3D=22padding: 3px=3Bfont-weight: bold=3B=
+=22=3E
+ Servicio =3C/td=3E
+ =3Ctd style=3D=22padding: 3px=3B=22=3E
+ Consulta General =3C/td=3E
+ =3C/tr=3E
+ =3Ctr=3E
+ =3Ctd class=3D=22label=22 style=3D=22padding: 3px=3Bfont-weight: bold=3B=
+=22=3E
+ Proveedor =3C/td=3E
+ =3Ctd style=3D=22padding: 3px=3B=22=3E
+ Doctor prueba prueba =3C/td=3E
+ =3C/tr=3E
+ =3Ctr=3E
+ =3Ctd class=3D=22label=22 style=3D=22padding: 3px=3Bfont-weight: bold=3B=
+=22=3E
+ Inicio =3C/td=3E
+ =3Ctd style=3D=22padding: 3px=3B=22=3E
+ 13/05/2024 9:30 am =3C/td=3E
+ =3C/tr=3E
+ =3Ctr=3E
+ =3Ctd class=3D=22label=22 style=3D=22padding: 3px=3Bfont-weight: bold=3B=
+=22=3E
+ Final =3C/td=3E
+ =3Ctd style=3D=22padding: 3px=3B=22=3E
+ 13/05/2024 10:00 am
+ =3C/td=3E
+ =3C/tr=3E
+ =3Ctr=3E
+ =3Ctd class=3D=22label=22 style=3D=22padding: 3px=3Bfont-weight: bold=3B=
+=22=3E
+ Zona horaria =3C/td=3E
+ =3Ctd style=3D=22padding: 3px=3B=22=3E
+ Lima (-5:00) =3C/td=3E
+ =3C/tr=3E
+
+ =3Ctr=3E
+ =3Ctd class=3D=22label=22 style=3D=22padding: 3px=3Bfont-weight: bold=3B=
+=22=3E
+ Descripci=C3=B3n =3C/td=3E
+ =3Ctd style=3D=22padding: 3px=3B=22=3E
+ =3C/td=3E
+ =3C/tr=3E
+
+=20
+ =3C/table=3E
+
+ =3Ch2=3E
+ Detalles del cliente =3C/h2=3E
+
+ =3Ctable id=3D=22customer-details=22=3E
+ =3Ctr=3E
+ =3Ctd class=3D=22label=22 style=3D=22padding: 3px=3Bfont-weight: bold=3B=
+=22=3E
+ Nombre =3C/td=3E
+ =3Ctd style=3D=22padding: 3px=3B=22=3E
+ asd asd =3C/td=3E
+ =3C/tr=3E
+ =3Ctr=3E
+ =3Ctd class=3D=22label=22 style=3D=22padding: 3px=3Bfont-weight: bold=3B=
+=22=3E
+ Direcci=C3=B3n de E-mail =3C/td=3E
+ =3Ctd style=3D=22padding: 3px=3B=22=3E
+ asd=40asd.asd =3C/td=3E
+ =3C/tr=3E
+ =3Ctr=3E
+ =3Ctd class=3D=22label=22 style=3D=22padding: 3px=3Bfont-weight: bold=3B=
+=22=3E
+ N=C3=BAmero de tel=C3=A9fono =3C/td=3E
+ =3Ctd style=3D=22padding: 3px=3B=22=3E
+ 999999999 =3C/td=3E
+ =3C/tr=3E
+ =3Ctr=3E
+ =3Ctd class=3D=22label=22 style=3D=22padding: 3px=3Bfont-weight: bold=3B=
+=22=3E
+ Domicilio =3C/td=3E
+ =3Ctd style=3D=22padding: 3px=3B=22=3E
+ =3C/td=3E
+ =3C/tr=3E
+ =3C/table=3E
+
+ =3Ch2=3E
+ Enlace a la cita =3C/h2=3E
+
+ =3Ca href=3D=22http://localhost:8080/booking-med/index.php/booking/resched=
+ule/EUATj7C5b9H0=22 style=3D=22width: 600px=3B=22=3E
+ http://localhost:8080/booking-med/index.php/booking/reschedule/EUATj7C5b9H=
+0 =3C/a=3E
+ =3C/div=3E
+
+ =3Cdiv id=3D=22footer=22 style=3D=22padding: 10px=3B text-align: center=3B=
+ margin-top: 10px=3B
+ border-top: 1px solid =23EEE=3B background: =23FAFAFA=3B=22=3E
+ Powered by
+ =3Ca href=3D=22https://easyappointments.org=22 style=3D=22text-decoration:=
+ none=3B=22=3E
+ Easy=21Appointments
+ =3C/a=3E
+ =7C
+ =3Ca href=3D=22https://www.gob.pe/sis=22 style=3D=22text-decoration: none=
+=3B=22=3E
+ Seguro Integral de Salud =3C/a=3E
+ =3C/div=3E
+=3C/div=3E
+
+=3C/body=3E
+=3C/html=3E
+
+--B_ALT_663d3cab4d422--
+
+
+
+--B_ATC_663d3cab4d424
+Content-Type: text/vcalendar; name=&quot;invitation.ics&quot;
+Content-Disposition: attachment;
+Content-Transfer-Encoding: base64
+
+QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL0Vhc3lBcHBvaW50bWVudHMv
+L09wZW4gU291cmNlIFdlYiBTY2hlZHVsZXIvL0VODQpDQUxTQ0FMRTpHUkVHT1JJQU4NCk1FVEhP
+RDpQVUJMSVNIDQpCRUdJTjpWVElNRVpPTkUNClRaSUQ6VVRDDQpCRUdJTjpTVEFOREFSRA0KRFRT
+VEFSVDoyMDIzMTIzMVQyMzAwMDANClRaT0ZGU0VUVE86KzAwMDANClRaT0ZGU0VURlJPTTorMDAw
+MA0KRU5EOlNUQU5EQVJEDQpFTkQ6VlRJTUVaT05FDQpCRUdJTjpWRVZFTlQNClVJRDozDQpEVFNU
+QVJUOjIwMjQwNTEzVDE0MzAwMA0KRFRFTkQ6MjAyNDA1MTNUMTUwMDAwDQpTVEFUVVM6Q09ORklS
+TUVEDQpTVU1NQVJZOkNvbnN1bHRhIEdlbmVyYWwNCkRFU0NSSVBUSU9OOlxuUHJvdmVlZG9yXG5c
+bk5vbWJyZTogRG9jdG9yIHBydWViYSBwcnVlYmFcbkRpcmVjY2nDs24gZGUNCiAgRS1tYWlsOiBw
+cnVlYmFAcHJ1ZWJhLmNvbVxuTsO6bWVybyBkZSB0ZWzDqWZvbm86IDk5OVxuRG9taWNpbGlvOiBc
+bkNpDQogdWRhZDogXG5Dw7NkaWdvIHBvc3RhbDogXG5cbkNsaWVudGVcblxuTm9tYnJlOiBhc2Qg
+YXNkXG5EaXJlY2Npw7NuIGRlIA0KIEUtbWFpbDogYXNkQGFzZC5hc2Rcbk7Dum1lcm8gZGUgdGVs
+w6lmb25vOiA5OTk5OTk5OTlcbkRvbWljaWxpbzogXG5DaXUNCiBkYWQ6IGFzZFxuQ8OzZGlnbyBw
+b3N0YWw6IFxuXG5Ob3Rhc1xuXG4NCkRUU1RBTVA6MjAyNDA1MDlUMjExNDE5Wg0KQVRURU5ERUU7
+Q1VUWVBFPUlORElWSURVQUw7Uk9MRT1SRVEtUEFSVElDSVBBTlQ7UEFSVFNUQVQ9TkVFRFMtQUNU
+SU9OOw0KIFJTVlA9VFJVRTtDTj1hc2QgYXNkOm1haWx0bzphc2RAYXNkLmFzZA0KQVRURU5ERUU7
+Q1VUWVBFPUlORElWSURVQUw7Uk9MRT1SRVEtUEFSVElDSVBBTlQ7UEFSVFNUQVQ9QUNDRVBURUQ7
+UlNWUA0KID1GQUxTRTtDTj1Eb2N0b3IgcHJ1ZWJhIHBydWViYTptYWlsdG86cHJ1ZWJhQHBydWVi
+YS5jb20NCk9SR0FOSVpFUjtDTj1Eb2N0b3IgcHJ1ZWJhIHBydWViYTptYWlsdG86cHJ1ZWJhQHBy
+dWViYS5jb20NCkJFR0lOOlZBTEFSTQ0KVFJJR0dFUjtWQUxVRT1EQVRFLVRJTUU6MjAyNDA1MTNU
+MTQxNTAwWg0KQUNUSU9OOkVNQUlMDQpTVU1NQVJZOkFsYXJtIG5vdGlmaWNhdGlvbg0KREVTQ1JJ
+UFRJT046VGhpcyBpcyBhbiBldmVudCByZW1pbmRlcg0KQVRURU5ERUU7Q1VUWVBFPUlORElWSURV
+QUw7Uk9MRT1SRVEtUEFSVElDSVBBTlQ7UEFSVFNUQVQ9TkVFRFMtQUNUSU9OOw0KIFJTVlA9VFJV
+RTtDTj1hc2QgYXNkOm1haWx0bzphc2RAYXNkLmFzZA0KRU5EOlZBTEFSTQ0KQkVHSU46VkFMQVJN
+DQpUUklHR0VSO1ZBTFVFPURBVEUtVElNRToyMDI0MDUxM1QxMzMwMDBaDQpBQ1RJT046RU1BSUwN
+ClNVTU1BUlk6QWxhcm0gbm90aWZpY2F0aW9uDQpERVNDUklQVElPTjpUaGlzIGlzIGFuIGV2ZW50
+IHJlbWluZGVyDQpBVFRFTkRFRTtDVVRZUEU9SU5ESVZJRFVBTDtST0xFPVJFUS1QQVJUSUNJUEFO
+VDtQQVJUU1RBVD1ORUVEUy1BQ1RJT047DQogUlNWUD1UUlVFO0NOPWFzZCBhc2Q6bWFpbHRvOmFz
+ZEBhc2QuYXNkDQpFTkQ6VkFMQVJNDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=
+
+--B_ATC_663d3cab4d424--</pre>
+ERROR - 2024-05-09 23:14:21 --> #0 C:\xampp\htdocs\booking-med\application\libraries\Notifications.php(95): Email_messages->send_appointment_saved(Array, Array, Array, Array, Array, 'Su cita ha sido...', 'Gracias por uti...', 'http://localhos...', 'asd@asd.asd', 'BEGIN:VCALENDAR...', 'America/Lima')
+#1 C:\xampp\htdocs\booking-med\application\controllers\Booking.php(571): Notifications->notify_appointment_saved(Array, Array, Array, Array, Array, false)
+#2 C:\xampp\htdocs\booking-med\system\core\CodeIgniter.php(481): Booking->register()
+#3 C:\xampp\htdocs\booking-med\index.php(360): require_once('C:\\xampp\\htdocs...')
+#4 {main}
