@@ -145,7 +145,7 @@ $config['available_languages'] = [
     'russian',
     'serbian',
     'slovak',
-    'spanish',
+    'español',
     'swedish',
     'turkish'
 ];
