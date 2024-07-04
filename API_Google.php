@@ -7,4 +7,4 @@
   referrerpolicy="no-referrer-when-downgrade"
   src="https://www.google.com/maps/embed/v1/place?key=AIzaSyA6u7UZdiNz3rkAZCsO-nSzr2Qgg7I0sLc
     &q=Space+Needle,Seattle+WA">
-</iframe>
+</iframe> 
