@@ -41,7 +41,7 @@ class Config {
     const DB_HOST       = 'booking-med.cj8uooucmfjj.us-east-2.rds.amazonaws.com:3306';
     const DB_NAME       = 'booking_med';
     const DB_USERNAME   = 'admin';
-    const DB_PASSWORD   = 'PxzfyI15J4kjU5oaWCbq';
+    const DB_PASSWORD   = 'h9jN4mu0twtSr1zP3vvW';
 
     // ------------------------------------------------------------------------
     // GOOGLE CALENDAR SYNC
